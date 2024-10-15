@@ -1,4 +1,0 @@
-#define IDB_EMBEDEXE 52
-#define IDB_EMBEDDLL 53
-
-
